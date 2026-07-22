@@ -16,7 +16,7 @@ Robotpal is a personal friend that know you with an active thought.
 
 ## Architecture
 
-![Architecture](./docs/images/architecture.png)
+
 
 
 ## Dependencies
